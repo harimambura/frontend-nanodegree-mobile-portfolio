@@ -171,7 +171,6 @@ body {
 /*                Mobile CSS Grid
 ===================================*/
 
-/*@media only screen and (max-width: 939px) {*/
 @media  all and (max-width: 480px) {
 	.container {
 		width: 300px;
